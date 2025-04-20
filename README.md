@@ -1,5 +1,5 @@
 # BMW_Ricardo_Castillo
-# 📊 Predicción de ventas - BMW (Grupo 8)
+# 📊 Predicción de ventas - BMW
 
 Este proyecto fue realizado como parte del máster de Data Science & AI de Nuclio Digital School, en el contexto del primer entregable del módulo de Data Science. El objetivo principal es analizar datos históricos de ventas de BMW y construir un modelo predictivo capaz de estimar las ventas futuras en función de distintas variables.
 
@@ -24,13 +24,12 @@ Este proyecto fue realizado como parte del máster de Data Science & AI de Nucli
 ---
 
 ## 📂 Estructura del proyecto
-- `BMW_Grupo8.ipynb`: Notebook principal del proyecto, donde se documenta todo el proceso de análisis y modelado.
-- (opcional) `data/`: Carpeta con los datasets utilizados (no incluida por privacidad).
-- (opcional) `outputs/`: Gráficos generados, métricas, modelos guardados.
+- `BMW_Ricardo_Castillo.ipynb`: Notebook principal del proyecto, donde se documenta todo el proceso de análisis y modelado.
+- `data/`: Contiene el dataset original (`ventas_bmw.csv`).
 
 ---
 
 ## 🚀 Cómo usar este proyecto
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/BMW_Grupo8.git
+   git clone https://github.com/tu_usuario/BMW_Ricardo_Castillo.git
