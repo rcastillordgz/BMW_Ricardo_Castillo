@@ -25,11 +25,11 @@ Este proyecto fue realizado como parte del máster de Data Science & AI de Nucli
 
 ## 📂 Estructura del proyecto
 - `BMW_Ricardo_Castillo.ipynb`: Notebook principal del proyecto, donde se documenta todo el proceso de análisis y modelado.
-- `data/`: Contiene el dataset original (`ventas_bmw.csv`).
+- `data/`: Contiene el dataset original (`bmw_dataset.csv`).
 
 ---
 
 ## 🚀 Cómo usar este proyecto
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/BMW_Ricardo_Castillo.git
+   git clone https://github.com/rcastillordgz/BMW_Ricardo_Castillo.git
